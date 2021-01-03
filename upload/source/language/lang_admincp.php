@@ -1420,7 +1420,6 @@ $lang = array
 	'misc_focus_area_title_comment' => 'Mặc định là "Trang web của gia đình", bạn có thể thiết lập mà bạn muốn Tiêu đề',
 	'misc_focus_area_cookie' => 'Thời gian bật lại cửa sổ sau khi đóng (giờ)',
 	'misc_focus_area_cookie_comment' => 'Nếu 0 thì làm mới trang bật lên. Đặt thành 1 để làm mới trang xuất hiện sau 1 giờ. Mặc định là 1, bạn có thể đặt thời gian bạn muốn bật lên.',
-',
 	'misc_focus_position' => 'Quản trị trang web khuyên bạn nên chạy khu vực',
 	'misc_focus_position_portal' => 'Tin tức',
 	'misc_focus_position_home' => 'Trang chủ',
@@ -5941,9 +5940,9 @@ $lang = array
 
 	'tools_updatecache' => 'Cập nhật bộ đệm',
 	'tools_updatecache_tips' => '<li>Bạn có thể sử dụng chức năng này để tạo lại bộ nhớ cache khi trang web trải qua quá trình khôi phục dữ liệu, nâng cấp hoặc hoạt động bất thường. Khi cập nhật bộ nhớ đệm, tải của máy chủ có thể tăng lên, vui lòng cố gắng tránh thời gian cao điểm truy cập của thành viên</li>
-				<li>แคชข้อมูล: อัปเดตแคชข้อมูลของเว็บไซต์ทั้งหมด</li>
-				<li>แคชเทมเพลท: อัปเดตแคชเทมเพลทของเว็บไซต์ ไฟล์แคชของสกิน/สไตล์  เมื่อคุณปรับเปลี่ยนเทมเพลทหรือสกิน อาจจะยังไม่เห็นผลทันทีจนกว่าจะอัปเดตไฟล์แคช</li>
-				<li>แคชหมวดหมู่โมดูล DIY: อัปเดตแคชหมวดหมู่โมดูล DIY เมื่อคุณติดตั้งหรือปรับเปลี่ยนหมวดหมู่ในโมดูล DIY อาจจะยังไม่เห็นผลทันทีจนกว่าจะอัปเดตไฟล์แคช</li>
+				<li>Bộ nhớ cache dữ liệu: cập nhật tất cả bộ nhớ cache dữ liệu của trang web</li>
+				<li>Bộ đệm ẩn mẫu: cập nhật tệp bộ đệm ẩn của các mẫu, kiểu diễn đàn, v.v., được sử dụng khi bạn sửa đổi mẫu hoặc kiểu nhưng không có hiệu lực ngay lập tức</li>
+				<li>Bộ nhớ cache phân loại mô-đun DIY: cập nhật phân loại mô-đun DIY, khi bạn cài đặt hoặc sửa đổi phân loại mô-đun DIY, nhưng nó không có hiệu lực ngay lập tức</li>
 				',
 
 	'tools_updatecache_data' => 'Data Cache',

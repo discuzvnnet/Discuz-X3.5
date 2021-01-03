@@ -96,8 +96,8 @@ $lang = array (
 	'accept_invitation' => 'Chấp nhận',
 	'and_play_together' => ', và cùng chơi',
 	'become_friend' => '<p>Trở thành bạn bè, bạn có thể thảo luận về chủ đề, cập nhật tin tức của nhau, bạn cũng có thể cùng nhau chơi nhiều trò chơi thú vị $userapp[appname] ……</p>
-						<p>คุณสามารถเขียนและเผยแพร่บล็อก อัปโหลดรูปภาพ ส่งข้อความทักทาย ได้อย่างรวดเร็วและง่ายดาย</p>
-						<p>คุณพร้อมที่จะร่วมสนุกกับเพื่อน ๆ มากมายและหาประสบการณ์ใหม่ ๆ ไปพร้อมกับเราหรือไม่...? อย่ารอช้า ลงทะเบียนเข้าร่วมกับเราเลย</p>',
+						<p>Bạn cũng có thể dễ dàng và nhanh chóng xuất bản nhật ký của riêng mình, tải lên hình ảnh, ghi lại những khoảnh khắc cuộc sống và chia sẻ với bạn bè</p>
+						<p>Bạn còn chờ gì nữa? Nhanh tay tham gia</p>',
 	'friend_information' => '<p>Có $space[friends] bạn, $space[albums] album, $space[doings] tâm trạng, $space[blogs] nhật ký, $space[threads] chủ đề</p>',
 	'invite_friend' => 'Mời bạn bè',
 	'invite_friends' => 'Mời bạn bè',
@@ -154,10 +154,10 @@ $lang = array (
 	'comprehensive_overview_message' => 'Đây là thông tin tổng hợp tình hình diễn đàn(cần 2 ngày sau mới có hiệu lực).',
 	'info_interactive' => 'Thông tin tương tác',
 	'interactive_help_message' => '<li>Ghi chú: Cập nhập lượng truy cập người dùng . Một người sử dụng truy cập nhiều lần, chỉ tính một lần</li>
-  									<li>{$_G[setting][navs][2][navname]}: refers to the everyday post topics, voting, activities, rewards, debates, events, and the total number of thread Replies. </li>
-									<li>คลับ: refers to the total number of every day created {$_G[setting][navs][3][navname]}, {$_G[setting][navs][3][navname]}, {$_G[setting][navs][3][navname]} topics, group replies. </li>
-									<li>สเปซ: refers to the daily published doings, blogs, photos, topics, polls, events, shares, and the total number of each comment. </li>
-									<li>การปฏิสัมพันธ์: refers to the daily users messages each to other, send greetings, and the total number of {$_G[setting][navs][4][navname]} corresponding rate interaction. </li>',
+  									<li>{$_G[setting][navs][2][navname]}: Đề cập đến tổng số chủ đề, phiếu bầu, sự kiện, phần thưởng, cuộc tranh luận, sản phẩm và câu trả lời chủ đề được xuất bản hàng ngày</li>
+									<li>Nhóm: Đề cập đến việc tạo chủ đề {$_G[setting][navs][3][navname]}, {$_G[setting][navs][3][navname]}, {$_G[setting][navs][3][navname]} tổng số câu trả lời </li>
+									<li>Quê hương: đề cập đến tổng số bản ghi đăng, nhật ký, hình ảnh, chủ đề, cuộc thăm dò, hoạt động, chia sẻ và bình luận lẫn nhau mỗi ngày</li>
+									<li>Tương tác: đề cập đến tổng số tương tác giữa những người dùng để lại tin nhắn, chào hỏi nhau và {$_G[setting][navs][4][navname]} tương ứng mỗi ngày</li>',
 	'member_interactive' => 'Tương tác',
 	'show' => 'Xem',
 	'home' => 'Trang chủ',
